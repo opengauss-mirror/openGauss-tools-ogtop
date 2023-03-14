@@ -51,7 +51,7 @@ ogtop是一款用于监控opengauss数据库实时容量、性能、运行状态
 
 **Ogtop工具地图**
 
-![image-20230131102105125](picture/image-20230131102105125.png)
+![image-20230131102105125](Readme/picture/image-20230131102105125.png)
 <<<<<<< HEAD
 
 ### **3、介质说明**
