@@ -62,9 +62,6 @@ ogtop_x86.tar.gz：arm版本安装包
 
 ogtop文件夹：ogtop源码
 
-Readme：说明文档
-=======
->>>>>>> c813002 (Ogtop_V1.0)
 
 ## 二、安装
 
